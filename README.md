@@ -224,8 +224,8 @@ The repository includes curated seed records in `data/sample_dataset.py` and lig
 
 #### 1. Clone the Repository
 ```powershell
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd "nlp miniproject"
+git clone https://github.com/upadhyayayush913-tech/ProductMindX.git
+cd ProductMindX
 ```
 
 #### 2. Create and Activate a Virtual Environment
@@ -266,8 +266,8 @@ Open your web browser at `http://localhost:8501`.
 ### macOS / Linux
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd "nlp miniproject"
+git clone https://github.com/upadhyayayush913-tech/ProductMindX.git
+cd ProductMindX
 
 python3 -m venv .venv
 source .venv/bin/activate
@@ -420,6 +420,6 @@ If referencing this work in academic research, please cite:
   author = {Upadhyay, Ayush},
   title = {ProductMind X: A Cognitive NLP Agent for Emerging Product-Issue Discovery and Explainable Consumer Intelligence},
   year = {2026},
-  url = {https://github.com/upadhyayayush/productmind-x}
+  url = {https://github.com/upadhyayayush913-tech/ProductMindX}
 }
 ```
