@@ -1,0 +1,1890 @@
+{
+  "B09XS7JWHH": {
+    "asin": "B09XS7JWHH",
+    "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones",
+    "category": "Electronics",
+    "pros": [
+      {
+        "aspect": "Comfort & Fit",
+        "sentiment_score": 0.34,
+        "positive_percentage": 50.0,
+        "mention_count": 6,
+        "sample_quotes": [
+          "The earcups are super soft and comfortable on my ears for full workdays.",
+          "The earcups are super soft and comfortable on my ears for full workdays.",
+          "Comfortable for long listening sessions."
+        ]
+      },
+      {
+        "aspect": "Battery Life",
+        "sentiment_score": 0.32,
+        "positive_percentage": 100.0,
+        "mention_count": 4,
+        "sample_quotes": [
+          "The battery life easily lasts over 28 hours without a sweat.",
+          "Fast charging gives me 3 hours of playtime in just 3 minutes.",
+          "The battery life easily lasts over 28 hours without a sweat."
+        ]
+      },
+      {
+        "aspect": "Sound Quality",
+        "sentiment_score": 0.22,
+        "positive_percentage": 75.0,
+        "mention_count": 8,
+        "sample_quotes": [
+          "Sound quality is rich with punchy bass and crisp highs.",
+          "After two months of use, a constant crackling sound started in the left earcup whenever ANC is turned on.",
+          "Sound quality is rich with punchy bass and crisp highs."
+        ]
+      },
+      {
+        "aspect": "Software & Connectivity",
+        "sentiment_score": 0.09,
+        "positive_percentage": 66.7,
+        "mention_count": 3,
+        "sample_quotes": [
+          "The audio fidelity and multipoint Bluetooth pairing between my laptop and phone work flawlessly.",
+          "Using the Sony Headphones Connect app opens up a great equalizer.",
+          "The latest 2.0.2 firmware broke my microphone input during calls."
+        ]
+      },
+      {
+        "aspect": "Performance",
+        "sentiment_score": -0.02,
+        "positive_percentage": 66.7,
+        "mention_count": 3,
+        "sample_quotes": [
+          "Fast charging gives me 3 hours of playtime in just 3 minutes.",
+          "Fast charging gives me 3 hours of playtime in just 3 minutes.",
+          "Resetting the device did not restore normal microphone performance."
+        ]
+      }
+    ],
+    "cons": [
+      {
+        "aspect": "Price & Value",
+        "sentiment_score": -0.95,
+        "positive_percentage": 0.0,
+        "mention_count": 2,
+        "sample_quotes": [
+          "Disappointed with the high price tag when defective noise cancellation happens.",
+          "Disappointed with the high price tag when defective noise cancellation happens."
+        ]
+      },
+      {
+        "aspect": "Noise Cancellation",
+        "sentiment_score": -0.24,
+        "positive_percentage": 30.0,
+        "mention_count": 10,
+        "sample_quotes": [
+          "The active noise cancellation on the Sony XM5 is absolutely top tier.",
+          "For $400, the build quality feels a bit plastic and the auto ANC optimization glitch keeps shifting noise levels when I turn my head.",
+          "After two months of use, a constant crackling sound started in the left earcup whenever ANC is turned on."
+        ]
+      },
+      {
+        "aspect": "Build Quality",
+        "sentiment_score": -0.2,
+        "positive_percentage": 0.0,
+        "mention_count": 2,
+        "sample_quotes": [
+          "For $400, the build quality feels a bit plastic and the auto ANC optimization glitch keeps shifting noise levels when I turn my head.",
+          "For $400, the build quality feels a bit plastic."
+        ]
+      }
+    ],
+    "issues": [
+      {
+        "issue": "Issue regarding: Defective",
+        "severity": "High",
+        "frequency": 2,
+        "trend": "Increasing (Emerging Issue \u26a0\ufe0f)",
+        "first_reported": "2023-08",
+        "last_reported": "2023-08",
+        "sample_quotes": [
+          "Disappointed with the high price tag when defective noise cancellation happens."
+        ]
+      },
+      {
+        "issue": "Issue regarding: Broke ",
+        "severity": "High",
+        "frequency": 1,
+        "trend": "Recent Detection",
+        "first_reported": "2023-09",
+        "last_reported": "2023-09",
+        "sample_quotes": [
+          "The latest 2.0.2 firmware broke my microphone input during calls."
+        ]
+      },
+      {
+        "issue": "Audio crackling, buzzing or static noise",
+        "severity": "Medium",
+        "frequency": 4,
+        "trend": "Increasing (Emerging Issue \u26a0\ufe0f)",
+        "first_reported": "2023-08",
+        "last_reported": "2023-08",
+        "sample_quotes": [
+          "Left earcup crackling noise and auto-ANC issue.",
+          "After two months of use, a constant crackling sound started in the left earcup whenever ANC is turned on.",
+          "After two months of use, a constant crackling static sound started in the left earcup whenever ANC is turned on."
+        ]
+      },
+      {
+        "issue": "Software bugs, crashes or update issues",
+        "severity": "Medium",
+        "frequency": 1,
+        "trend": "Recent Detection",
+        "first_reported": "2023-05",
+        "last_reported": "2023-05",
+        "sample_quotes": [
+          "For $400, the build quality feels a bit plastic and the auto ANC optimization glitch keeps shifting noise levels when I turn my head."
+        ]
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": 0,
+        "label": "Topic 1: Roar / Life / Sony Xm5",
+        "keywords": [
+          "roar",
+          "life",
+          "sony xm5",
+          "ears workdays",
+          "cancellation sony",
+          "soft comfortable",
+          "soft"
+        ],
+        "top_words_str": "roar, life, sony xm5, ears workdays, cancellation sony, soft comfortable, soft"
+      },
+      {
+        "topic_id": 1,
+        "label": "Topic 2: Quality / Punchy / Away",
+        "keywords": [
+          "quality",
+          "punchy",
+          "away",
+          "gives hours",
+          "zoom meetings",
+          "quality rich",
+          "punchy bass"
+        ],
+        "top_words_str": "quality, punchy, away, gives hours, zoom meetings, quality rich, punchy bass"
+      },
+      {
+        "topic_id": 2,
+        "label": "Topic 3: Anc / Tag / Anc Turned",
+        "keywords": [
+          "anc",
+          "tag",
+          "anc turned",
+          "turned",
+          "turned auto",
+          "use constant",
+          "tag defective"
+        ],
+        "top_words_str": "anc, tag, anc turned, turned, turned auto, use constant, tag defective"
+      },
+      {
+        "topic_id": 3,
+        "label": "Topic 4: 400 / Anymore / Anymore 400",
+        "keywords": [
+          "400",
+          "anymore",
+          "anymore 400",
+          "bit",
+          "bit plastic",
+          "build",
+          "build quality"
+        ],
+        "top_words_str": "400, anymore, anymore 400, bit, bit plastic, build, build quality"
+      }
+    ],
+    "summaries": {
+      "positive_summary": "The earcups are super soft and comfortable on my ears for full workdays. The earcups are super soft and comfortable on my ears for full workdays. Using the Sony Headphones Connect app opens up a great equalizer.",
+      "negative_summary": "Disappointed with the high price tag when defective noise cancellation happens. Disappointed with the high price tag when defective noise cancellation happens. The latest 2.0.2 firmware broke my microphone input during calls."
+    }
+  },
+  "B0BDHW4P5S": {
+    "asin": "B0BDHW4P5S",
+    "title": "Apple AirPods Pro (2nd Generation) Wireless Earbuds",
+    "category": "Electronics",
+    "pros": [
+      {
+        "aspect": "Ease Of Use",
+        "sentiment_score": 0.93,
+        "positive_percentage": 100.0,
+        "mention_count": 2,
+        "sample_quotes": [
+          "The volume swipe controls on the stem are super convenient.",
+          "The volume swipe controls on the stem are super convenient."
+        ]
+      },
+      {
+        "aspect": "Sound Quality",
+        "sentiment_score": 0.3,
+        "positive_percentage": 72.7,
+        "mention_count": 11,
+        "sample_quotes": [
+          "The Adaptive Audio and Transparency mode feel like you are not wearing anything at all.",
+          "The volume swipe controls on the stem are super convenient.",
+          "The bass response and clarity are noticeable upgrades."
+        ]
+      }
+    ],
+    "cons": [
+      {
+        "aspect": "Build Quality",
+        "sentiment_score": -0.64,
+        "positive_percentage": 0.0,
+        "mention_count": 1,
+        "sample_quotes": [
+          "Disappointing durability for a premium $249 earbud."
+        ]
+      },
+      {
+        "aspect": "Software & Connectivity",
+        "sentiment_score": -0.4,
+        "positive_percentage": 0.0,
+        "mention_count": 2,
+        "sample_quotes": [
+          "It started right after the recent firmware update.",
+          "Ever since the recent firmware update, my right earbud produces a buzzing high-pitched static sound in Transparency mode."
+        ]
+      },
+      {
+        "aspect": "Battery Life",
+        "sentiment_score": -0.1,
+        "positive_percentage": 14.3,
+        "mention_count": 7,
+        "sample_quotes": [
+          "Also the charging case battery drains rapidly even when the earbuds are not in use.",
+          "The MagSafe wireless charging makes it effortless to top off on my nightstand.",
+          "But when connecting to my work Windows PC, spatial audio is absent, latency is noticeable, and there is no battery indicator."
+        ]
+      },
+      {
+        "aspect": "Noise Cancellation",
+        "sentiment_score": -0.05,
+        "positive_percentage": 33.3,
+        "mention_count": 6,
+        "sample_quotes": [
+          "The Adaptive Audio and Transparency mode feel like you are not wearing anything at all.",
+          "Noise cancellation drowns out city street traffic completely.",
+          "The Adaptive Audio and Transparency mode feel like you are not wearing anything at all."
+        ]
+      },
+      {
+        "aspect": "Comfort & Fit",
+        "sentiment_score": 0.0,
+        "positive_percentage": 0.0,
+        "mention_count": 2,
+        "sample_quotes": []
+      }
+    ],
+    "issues": [
+      {
+        "issue": "Audio crackling, buzzing or static noise",
+        "severity": "Medium",
+        "frequency": 4,
+        "trend": "Increasing (Emerging Issue \u26a0\ufe0f)",
+        "first_reported": "2023-08",
+        "last_reported": "2023-08",
+        "sample_quotes": [
+          "Static buzzing noise in right earbud after latest firmware.",
+          "There is a persistent static buzzing and clicking sound in the right earbud when walking or talking.",
+          "Ever since the recent firmware update, my right earbud produces a buzzing high-pitched static sound in Transparency mode."
+        ]
+      },
+      {
+        "issue": "Rapid battery drain or charging defect",
+        "severity": "Medium",
+        "frequency": 1,
+        "trend": "Recent Detection",
+        "first_reported": "2023-08",
+        "last_reported": "2023-08",
+        "sample_quotes": [
+          "Also the charging case battery drains rapidly even when the earbuds are not in use."
+        ]
+      },
+      {
+        "issue": "Issue regarding: Stopped charging",
+        "severity": "Medium",
+        "frequency": 1,
+        "trend": "Recent Detection",
+        "first_reported": "2023-09",
+        "last_reported": "2023-09",
+        "sample_quotes": [
+          "Left earbud stopped charging in case."
+        ]
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": 0,
+        "label": "Topic 1: Swipe Controls / Took Great / Traffic",
+        "keywords": [
+          "swipe controls",
+          "took great",
+          "traffic",
+          "cancellation",
+          "adaptive",
+          "like wearing",
+          "adaptive audio"
+        ],
+        "top_words_str": "swipe controls, took great, traffic, cancellation, adaptive, like wearing, adaptive audio"
+      },
+      {
+        "topic_id": 1,
+        "label": "Topic 2: Tips / Upgrades / Upgrades Battery",
+        "keywords": [
+          "tips",
+          "upgrades",
+          "upgrades battery",
+          "buy",
+          "foam",
+          "foam tips",
+          "sweaty gym"
+        ],
+        "top_words_str": "tips, upgrades, upgrades battery, buy, foam, foam tips, sweaty gym"
+      },
+      {
+        "topic_id": 2,
+        "label": "Topic 3: Right / Buzzing / Update",
+        "keywords": [
+          "right",
+          "buzzing",
+          "update",
+          "recent",
+          "firmware update",
+          "recent firmware",
+          "firmware"
+        ],
+        "top_words_str": "right, buzzing, update, recent, firmware update, recent firmware, firmware"
+      },
+      {
+        "topic_id": 3,
+        "label": "Topic 4: Multiple / Case / Iphone",
+        "keywords": [
+          "multiple",
+          "case",
+          "iphone",
+          "charging",
+          "audio",
+          "effortless nightstand",
+          "case gives"
+        ],
+        "top_words_str": "multiple, case, iphone, charging, audio, effortless nightstand, case gives"
+      }
+    ],
+    "summaries": {
+      "positive_summary": "Apple took an already great earbud and made it phenomenal. Apple took an already great earbud and made it phenomenal. The volume swipe controls on the stem are super convenient.",
+      "negative_summary": "Noise cancellation drowns out city street traffic completely. Noise cancellation drowns out city street traffic completely. Disappointing durability for a premium $249 earbud."
+    }
+  },
+  "B08N5M7S6K": {
+    "asin": "B08N5M7S6K",
+    "title": "Logitech MX Master 3S Wireless Performance Mouse",
+    "category": "Electronics",
+    "pros": [
+      {
+        "aspect": "Performance",
+        "sentiment_score": 0.71,
+        "positive_percentage": 100.0,
+        "mention_count": 1,
+        "sample_quotes": [
+          "Do note that at 141 grams it is too heavy for fast-paced competitive gaming, but for CAD and office work it is ideal."
+        ]
+      },
+      {
+        "aspect": "Comfort & Fit",
+        "sentiment_score": 0.4,
+        "positive_percentage": 100.0,
+        "mention_count": 3,
+        "sample_quotes": [
+          "Ergonomics are second to none for large hands.",
+          "Ergonomics are second to none for large hands.",
+          "Super comfortable hand position that eliminated my wrist strain from my old flat mouse."
+        ]
+      }
+    ],
+    "cons": [
+      {
+        "aspect": "Software & Connectivity",
+        "sentiment_score": -0.51,
+        "positive_percentage": 0.0,
+        "mention_count": 3,
+        "sample_quotes": [
+          "The hardware is good, but the Logi Options+ software is terrible.",
+          "Over standard Bluetooth on an M1 MacBook, there is subtle stutter and polling rate jitter when scrolling rapidly.",
+          "The hardware is good, but the Logi Options+ software is terrible."
+        ]
+      },
+      {
+        "aspect": "Battery Life",
+        "sentiment_score": -0.12,
+        "positive_percentage": 0.0,
+        "mention_count": 1,
+        "sample_quotes": []
+      }
+    ],
+    "issues": [
+      {
+        "issue": "Issue regarding: Grinding ",
+        "severity": "High",
+        "frequency": 1,
+        "trend": "Recent Detection",
+        "first_reported": "2023-08",
+        "last_reported": "2023-08",
+        "sample_quotes": [
+          "The electromagnetic smart-shift wheel started grinding and sticking between ratchet and free-spin mode after 5 months of daily use."
+        ]
+      },
+      {
+        "issue": "Exterior material peeling or degradation",
+        "severity": "Medium",
+        "frequency": 4,
+        "trend": "Increasing (Emerging Issue \u26a0\ufe0f)",
+        "first_reported": "2023-08",
+        "last_reported": "2023-08",
+        "sample_quotes": [
+          "Logi Options+ software bugs and rubber coating peeling.",
+          "Also after 7 months the thumb rubber grip is starting to peel off and get sticky."
+        ]
+      },
+      {
+        "issue": "Issue regarding: Stuck",
+        "severity": "Medium",
+        "frequency": 3,
+        "trend": "Increasing (Emerging Issue \u26a0\ufe0f)",
+        "first_reported": "2023-09",
+        "last_reported": "2023-09",
+        "sample_quotes": [
+          "Thumb button stuck down, left click unresponsive.",
+          "The hidden gesture thumb button on the base collapsed internally and got permanently stuck down.",
+          "Because it is stuck down, standard mouse clicks register as gesture movements and the cursor locks up."
+        ]
+      },
+      {
+        "issue": "Device power / operation failure",
+        "severity": "Medium",
+        "frequency": 2,
+        "trend": "Increasing (Emerging Issue \u26a0\ufe0f)",
+        "first_reported": "2023-08",
+        "last_reported": "2023-08",
+        "sample_quotes": [
+          "It constantly crashes on macOS and Windows, causing custom button mapping to stop working."
+        ]
+      },
+      {
+        "issue": "Issue regarding: Tearing",
+        "severity": "Medium",
+        "frequency": 1,
+        "trend": "Recent Detection",
+        "first_reported": "2023-08",
+        "last_reported": "2023-08",
+        "sample_quotes": [
+          "Opening the mouse requires tearing the Teflon feet."
+        ]
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": 0,
+        "label": "Topic 1: 000 / 000 Row / 10",
+        "keywords": [
+          "000",
+          "000 row",
+          "10",
+          "10 000",
+          "unbelievable",
+          "clicks 3s",
+          "completely silent"
+        ],
+        "top_words_str": "000, 000 row, 10, 10 000, unbelievable, clicks 3s, completely silent"
+      },
+      {
+        "topic_id": 1,
+        "label": "Topic 2: Button Mapping / Causing / Causing Custom",
+        "keywords": [
+          "button mapping",
+          "causing",
+          "causing custom",
+          "constantly",
+          "crashes",
+          "constantly crashes",
+          "custom"
+        ],
+        "top_words_str": "button mapping, causing, causing custom, constantly, crashes, constantly crashes, custom"
+      },
+      {
+        "topic_id": 2,
+        "label": "Topic 3: Dongle / Usb / Logitech",
+        "keywords": [
+          "dongle",
+          "usb",
+          "logitech",
+          "logi bolt",
+          "bolt",
+          "logi",
+          "requires"
+        ],
+        "top_words_str": "dongle, usb, logitech, logi bolt, bolt, logi, requires"
+      },
+      {
+        "topic_id": 3,
+        "label": "Topic 4: Gesture / Stuck / Button",
+        "keywords": [
+          "gesture",
+          "stuck",
+          "button",
+          "thumb",
+          "cursor locks",
+          "collapsed",
+          "cursor"
+        ],
+        "top_words_str": "gesture, stuck, button, thumb, cursor locks, collapsed, cursor"
+      }
+    ],
+    "summaries": {
+      "positive_summary": "Super comfortable hand position that eliminated my wrist strain from my old flat mouse. As a video editor in Premiere and DaVinci Resolve, having the secondary horizontal thumb wheel makes scrubbing timelines a joy. Do note that at 141 grams it is too heavy for fast-paced competitive gaming, but for CAD and office work it is ideal.",
+      "negative_summary": "The hardware is good, but the Logi Options+ software is terrible. The hardware is good, but the Logi Options+ software is terrible. The hidden gesture thumb button on the base collapsed internally and got permanently stuck down."
+    }
+  },
+  "B0BLP3V9H9": {
+    "asin": "B0BLP3V9H9",
+    "title": "Samsung Galaxy S23 Ultra Cell Phone, 256GB, Unlocked",
+    "category": "Cell_Phones_and_Accessories",
+    "pros": [],
+    "cons": [
+      {
+        "aspect": "Safety & Heating",
+        "sentiment_score": -0.59,
+        "positive_percentage": 0.0,
+        "mention_count": 2,
+        "sample_quotes": [
+          "No more Exynos overheating or battery throttling.",
+          "No more Exynos overheating or battery throttling."
+        ]
+      },
+      {
+        "aspect": "Performance",
+        "sentiment_score": -0.49,
+        "positive_percentage": 0.0,
+        "mention_count": 2,
+        "sample_quotes": [
+          "Samsung's shutter lag remains behind the Pixel and iPhone in fast indoor scenes.",
+          "Samsung's shutter lag remains behind the Pixel and iPhone in fast indoor scenes."
+        ]
+      },
+      {
+        "aspect": "Sound Quality",
+        "sentiment_score": -0.4,
+        "positive_percentage": 0.0,
+        "mention_count": 2,
+        "sample_quotes": [
+          "Bluetooth audio to my car also stutters every 10 minutes.",
+          "Bluetooth audio to my car also stutters every 10 minutes."
+        ]
+      },
+      {
+        "aspect": "Software & Connectivity",
+        "sentiment_score": -0.15,
+        "positive_percentage": 50.0,
+        "mention_count": 4,
+        "sample_quotes": [
+          "Bluetooth audio to my car also stutters every 10 minutes.",
+          "Bluetooth audio to my car also stutters every 10 minutes."
+        ]
+      }
+    ],
+    "issues": [
+      {
+        "issue": "Issue regarding: Bug",
+        "severity": "Medium",
+        "frequency": 2,
+        "trend": "Increasing (Emerging Issue \u26a0\ufe0f)",
+        "first_reported": "2023-09",
+        "last_reported": "2023-09",
+        "sample_quotes": [
+          "Factory reset did not fix this modem bug."
+        ]
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": 0,
+        "label": "Topic 1: Indoor / Samsung / Taking Indoor",
+        "keywords": [
+          "indoor",
+          "samsung",
+          "taking indoor",
+          "shutter",
+          "shutter lag",
+          "stunning taking",
+          "taking"
+        ],
+        "top_words_str": "indoor, samsung, taking indoor, shutter, shutter lag, stunning taking, taking"
+      },
+      {
+        "topic_id": 1,
+        "label": "Topic 2: Weighs 250 / Weighs / Sun Protective",
+        "keywords": [
+          "weighs 250",
+          "weighs",
+          "sun protective",
+          "sun",
+          "midday",
+          "noticeable",
+          "noticeable pocket"
+        ],
+        "top_words_str": "weighs 250, weighs, sun protective, sun, midday, noticeable, noticeable pocket"
+      },
+      {
+        "topic_id": 2,
+        "label": "Topic 3: Wifi Network / Warning Bluetooth / Wifi",
+        "keywords": [
+          "wifi network",
+          "warning bluetooth",
+          "wifi",
+          "switches mobile",
+          "warning",
+          "stutters 10",
+          "switches"
+        ],
+        "top_words_str": "wifi network, warning bluetooth, wifi, switches mobile, warning, stutters 10, switches"
+      },
+      {
+        "topic_id": 3,
+        "label": "Topic 4: Zoom Actually / Zoom / Time Flat",
+        "keywords": [
+          "zoom actually",
+          "zoom",
+          "time flat",
+          "time",
+          "screen",
+          "screen time",
+          "s22"
+        ],
+        "top_words_str": "zoom actually, zoom, time flat, time, screen, screen time, s22"
+      }
+    ],
+    "summaries": {
+      "positive_summary": "The 6.8 inch Dynamic AMOLED panel is bright enough to read directly under blazing midday sun. The 6.8 inch Dynamic AMOLED panel is bright enough to read directly under blazing midday sun. S Pen is fantastic for PDF signing.",
+      "negative_summary": "Samsung's shutter lag remains behind the Pixel and iPhone in fast indoor scenes. Samsung's shutter lag remains behind the Pixel and iPhone in fast indoor scenes."
+    }
+  },
+  "B09VPHVT2Z": {
+    "asin": "B09VPHVT2Z",
+    "title": "Anker 737 Power Bank (PowerCore 24K), 140W Portable Charger",
+    "category": "Cell_Phones_and_Accessories",
+    "pros": [
+      {
+        "aspect": "Comfort & Fit",
+        "sentiment_score": 0.69,
+        "positive_percentage": 100.0,
+        "mention_count": 2,
+        "sample_quotes": [
+          "But the ability to monitor port power draw and remaining recharge time on the built-in color display makes it totally worth the weight.",
+          "But the ability to monitor port power draw and remaining recharge time on the built-in color display makes it totally worth the weight."
+        ]
+      },
+      {
+        "aspect": "Safety & Heating",
+        "sentiment_score": 0.55,
+        "positive_percentage": 100.0,
+        "mention_count": 2,
+        "sample_quotes": [
+          "The smart digital screen shows exact input/output wattage and battery temperature.",
+          "The smart digital screen shows exact input/output wattage and battery temperature."
+        ]
+      },
+      {
+        "aspect": "Battery Life",
+        "sentiment_score": 0.55,
+        "positive_percentage": 100.0,
+        "mention_count": 2,
+        "sample_quotes": [
+          "The smart digital screen shows exact input/output wattage and battery temperature.",
+          "The smart digital screen shows exact input/output wattage and battery temperature."
+        ]
+      },
+      {
+        "aspect": "Performance",
+        "sentiment_score": 0.28,
+        "positive_percentage": 66.7,
+        "mention_count": 12,
+        "sample_quotes": [
+          "This power bank is an engineering marvel.",
+          "Delivering 140W over USB-C means my power-hungry MacBook Pro recharges as fast as from the wall brick.",
+          "The smart digital screen shows exact input/output wattage and battery temperature."
+        ]
+      }
+    ],
+    "cons": [],
+    "issues": [],
+    "topics": [
+      {
+        "topic_id": 0,
+        "label": "Topic 1: Weeks Took / Weeks / Trip",
+        "keywords": [
+          "weeks took",
+          "weeks",
+          "trip",
+          "took trip",
+          "took",
+          "standby",
+          "standby power"
+        ],
+        "top_words_str": "weeks took, weeks, trip, took trip, took, standby, standby power"
+      },
+      {
+        "topic_id": 1,
+        "label": "Topic 2: Wattage Wall / Wall Charger / Using High",
+        "keywords": [
+          "wattage wall",
+          "wall charger",
+          "using high",
+          "using",
+          "sony headphones",
+          "55 minutes",
+          "55"
+        ],
+        "top_words_str": "wattage wall, wall charger, using high, using, sony headphones, 55 minutes, 55"
+      },
+      {
+        "topic_id": 2,
+        "label": "Topic 3: Power / Wall Brick / Wattage Battery",
+        "keywords": [
+          "power",
+          "wall brick",
+          "wattage battery",
+          "usb means",
+          "temperature",
+          "means",
+          "means power"
+        ],
+        "top_words_str": "power, wall brick, wattage battery, usb means, temperature, means, means power"
+      },
+      {
+        "topic_id": 3,
+        "label": "Topic 4: Worth Weight / Worth / Weight",
+        "keywords": [
+          "worth weight",
+          "worth",
+          "weight",
+          "time",
+          "time built",
+          "totally",
+          "totally worth"
+        ],
+        "top_words_str": "worth weight, worth, weight, time, time built, totally, totally worth"
+      }
+    ],
+    "summaries": {
+      "positive_summary": "But the ability to monitor port power draw and remaining recharge time on the built-in color display makes it totally worth the weight. But the ability to monitor port power draw and remaining recharge time on the built-in color display makes it totally worth the weight. This power bank is an engineering marvel.",
+      "negative_summary": "No widespread critical complaints were reported in the sampled reviews."
+    }
+  },
+  "B00FLYWNYQ": {
+    "asin": "B00FLYWNYQ",
+    "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker, 6 Quart",
+    "category": "Home_and_Kitchen",
+    "pros": [
+      {
+        "aspect": "Cleaning & Maintenance",
+        "sentiment_score": -0.08,
+        "positive_percentage": 71.4,
+        "mention_count": 7,
+        "sample_quotes": [
+          "It saves so much cooking time after work and cleaning the stainless steel inner pot is simple in the dishwasher.",
+          "Furthermore, the silicone sealing ring absorbs strong curry and onion smells permanently.",
+          "The replacement ring was difficult to seat properly, resulting in steam leaking from the lid."
+        ]
+      }
+    ],
+    "cons": [
+      {
+        "aspect": "Safety & Heating",
+        "sentiment_score": -0.62,
+        "positive_percentage": 0.0,
+        "mention_count": 3,
+        "sample_quotes": [
+          "I keep getting the dreaded 'Burn Food' error code even when there is plenty of broth in the pot.",
+          "I keep getting the dreaded 'Burn Food' error code even when there is plenty of broth in the pot."
+        ]
+      }
+    ],
+    "issues": [
+      {
+        "issue": "Thermal overheating or burn warning alert",
+        "severity": "High",
+        "frequency": 4,
+        "trend": "Increasing (Emerging Issue \u26a0\ufe0f)",
+        "first_reported": "2023-08",
+        "last_reported": "2023-08",
+        "sample_quotes": [
+          "Burn error message and silicone lid seal odor retention.",
+          "I keep getting the dreaded 'Burn Food' error code even when there is plenty of broth in the pot."
+        ]
+      },
+      {
+        "issue": "Issue regarding: Smells",
+        "severity": "Medium",
+        "frequency": 2,
+        "trend": "Increasing (Emerging Issue \u26a0\ufe0f)",
+        "first_reported": "2023-08",
+        "last_reported": "2023-08",
+        "sample_quotes": [
+          "Furthermore, the silicone sealing ring absorbs strong curry and onion smells permanently."
+        ]
+      },
+      {
+        "issue": "Seal degradation or liquid/steam leakage",
+        "severity": "Medium",
+        "frequency": 2,
+        "trend": "Increasing (Emerging Issue \u26a0\ufe0f)",
+        "first_reported": "2023-08",
+        "last_reported": "2023-08",
+        "sample_quotes": [
+          "The replacement ring was difficult to seat properly, resulting in steam leaking from the lid."
+        ]
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": 0,
+        "label": "Topic 1: Ring / Plenty / Pot Furthermore",
+        "keywords": [
+          "ring",
+          "plenty",
+          "pot furthermore",
+          "properly",
+          "plenty broth",
+          "resulting steam",
+          "permanently"
+        ],
+        "top_words_str": "ring, plenty, pot furthermore, properly, plenty broth, resulting steam, permanently"
+      },
+      {
+        "topic_id": 1,
+        "label": "Topic 2: Pot / Work / Work Cleaning",
+        "keywords": [
+          "pot",
+          "work",
+          "work cleaning",
+          "use instant",
+          "use",
+          "week",
+          "time work"
+        ],
+        "top_words_str": "pot, work, work cleaning, use instant, use, week, time work"
+      },
+      {
+        "topic_id": 2,
+        "label": "Topic 3: Yogurt / Hours / Function",
+        "keywords": [
+          "yogurt",
+          "hours",
+          "function",
+          "tomato paste",
+          "tomato",
+          "trigger",
+          "trigger burn"
+        ],
+        "top_words_str": "yogurt, hours, function, tomato paste, tomato, trigger, trigger burn"
+      },
+      {
+        "topic_id": 3,
+        "label": "Topic 4: Valve / Valve Float / Spoon Fantastic",
+        "keywords": [
+          "valve",
+          "valve float",
+          "spoon fantastic",
+          "steam escapes",
+          "spoon",
+          "tap",
+          "tap lid"
+        ],
+        "top_words_str": "valve, valve float, spoon fantastic, steam escapes, spoon, tap, tap lid"
+      }
+    ],
+    "summaries": {
+      "positive_summary": "Cooks great chili and carnitas. Otherwise a fantastic kitchen appliance. Furthermore, the silicone sealing ring absorbs strong curry and onion smells permanently.",
+      "negative_summary": "I keep getting the dreaded 'Burn Food' error code even when there is plenty of broth in the pot. I keep getting the dreaded 'Burn Food' error code even when there is plenty of broth in the pot. The replacement ring was difficult to seat properly, resulting in steam leaking from the lid."
+    }
+  },
+  "B07FB15XBG": {
+    "asin": "B07FB15XBG",
+    "title": "Keurig K-Mini Single Serve Coffee Maker",
+    "category": "Home_and_Kitchen",
+    "pros": [],
+    "cons": [
+      {
+        "aspect": "Performance",
+        "sentiment_score": -0.41,
+        "positive_percentage": 0.0,
+        "mention_count": 2,
+        "sample_quotes": [
+          "The pump motor makes a loud grinding noise and only dispenses half an ounce of lukewarm water.",
+          "The machine makes a loud grinding motor noise, vibrates violently, but only dispenses half an ounce of lukewarm water before stopping."
+        ]
+      }
+    ],
+    "issues": [
+      {
+        "issue": "Issue regarding: Grinding noise",
+        "severity": "High",
+        "frequency": 1,
+        "trend": "Recent Detection",
+        "first_reported": "2023-07",
+        "last_reported": "2023-07",
+        "sample_quotes": [
+          "The pump motor makes a loud grinding noise and only dispenses half an ounce of lukewarm water."
+        ]
+      },
+      {
+        "issue": "Issue regarding: Grinding ",
+        "severity": "High",
+        "frequency": 1,
+        "trend": "Recent Detection",
+        "first_reported": "2023-07",
+        "last_reported": "2023-07",
+        "sample_quotes": [
+          "The machine makes a loud grinding motor noise, vibrates violently, but only dispenses half an ounce of lukewarm water before stopping."
+        ]
+      },
+      {
+        "issue": "Water pump grinding or failure to dispense",
+        "severity": "Medium",
+        "frequency": 1,
+        "trend": "Recent Detection",
+        "first_reported": "2023-07",
+        "last_reported": "2023-07",
+        "sample_quotes": [
+          "Pump stopped pumping water after 4 months."
+        ]
+      },
+      {
+        "issue": "Issue regarding: Refused to",
+        "severity": "Medium",
+        "frequency": 1,
+        "trend": "Recent Detection",
+        "first_reported": "2023-07",
+        "last_reported": "2023-07",
+        "sample_quotes": [
+          "One morning it simply refused to pump water from the reservoir."
+        ]
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": 0,
+        "label": "Topic 1: Pump / Water / Dispenses Half",
+        "keywords": [
+          "pump",
+          "water",
+          "dispenses half",
+          "makes loud",
+          "loud grinding",
+          "loud",
+          "grinding"
+        ],
+        "top_words_str": "pump, water, dispenses half, makes loud, loud grinding, loud, grinding"
+      },
+      {
+        "topic_id": 1,
+        "label": "Topic 2: Coffee / Brews / Hot",
+        "keywords": [
+          "coffee",
+          "brews",
+          "hot",
+          "cup",
+          "removable drip",
+          "removable",
+          "straightforward operate"
+        ],
+        "top_words_str": "coffee, brews, hot, cup, removable drip, removable, straightforward operate"
+      },
+      {
+        "topic_id": 2,
+        "label": "Topic 3: Vinegar Did / Water Overflow / Puncture Needle",
+        "keywords": [
+          "vinegar did",
+          "water overflow",
+          "puncture needle",
+          "rate",
+          "pod holder",
+          "puncture",
+          "upper puncture"
+        ],
+        "top_words_str": "vinegar did, water overflow, puncture needle, rate, pod holder, puncture, upper puncture"
+      },
+      {
+        "topic_id": 3,
+        "label": "Topic 4: Pour Water / Pod Push / Room",
+        "keywords": [
+          "pour water",
+          "pod push",
+          "room",
+          "reservoir insert",
+          "pour",
+          "press brew",
+          "premium"
+        ],
+        "top_words_str": "pour water, pod push, room, reservoir insert, pour, press brew, premium"
+      }
+    ],
+    "summaries": {
+      "positive_summary": "Super easy to operate: pour water into the back reservoir, insert pod, push down handle, and press brew. It brews a fresh hot cup of coffee quickly and the removable drip tray accommodates my 7-inch travel mug easily. Under 5 inches wide, this coffee maker takes up zero precious counter space.",
+      "negative_summary": "Cleaned and descaled with vinegar but it died completely. The machine makes a loud grinding motor noise, vibrates violently, but only dispenses half an ounce of lukewarm water before stopping. The water pump failed prematurely."
+    }
+  },
+  "B07S76WBJ1": {
+    "asin": "B07S76WBJ1",
+    "title": "Ninja Professional Plus Blender with Auto-iQ",
+    "category": "Home_and_Kitchen",
+    "pros": [
+      {
+        "aspect": "Build Quality",
+        "sentiment_score": 0.25,
+        "positive_percentage": 100.0,
+        "mention_count": 1,
+        "sample_quotes": [
+          "After 6 months of daily protein shakes, the safety lock latch on the plastic lid snapped off, preventing the blender from turning on."
+        ]
+      },
+      {
+        "aspect": "Performance",
+        "sentiment_score": 0.1,
+        "positive_percentage": 66.7,
+        "mention_count": 3,
+        "sample_quotes": [
+          "The 1400W motor pulverizes ice cubes into snow in 5 seconds flat.",
+          "The 1400 watt motor has raw commercial power."
+        ]
+      }
+    ],
+    "cons": [
+      {
+        "aspect": "Safety & Heating",
+        "sentiment_score": -0.23,
+        "positive_percentage": 50.0,
+        "mention_count": 2,
+        "sample_quotes": [
+          "Worse, the safety locking handle on the lid cracked after 6 months and jammed shut, making it impossible to pour without prying it open.",
+          "After 6 months of daily protein shakes, the safety lock latch on the plastic lid snapped off, preventing the blender from turning on."
+        ]
+      },
+      {
+        "aspect": "Price & Value",
+        "sentiment_score": 0.0,
+        "positive_percentage": 0.0,
+        "mention_count": 1,
+        "sample_quotes": []
+      }
+    ],
+    "issues": [
+      {
+        "issue": "Mechanism jamming or handle cracking",
+        "severity": "Medium",
+        "frequency": 2,
+        "trend": "Increasing (Emerging Issue \u26a0\ufe0f)",
+        "first_reported": "2023-07",
+        "last_reported": "2023-07",
+        "sample_quotes": [
+          "Extremely loud and pitcher lid locking mechanism jammed.",
+          "Worse, the safety locking handle on the lid cracked after 6 months and jammed shut, making it impossible to pour without prying it open."
+        ]
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": 0,
+        "label": "Topic 1: Smoothie / Seconds / Snow",
+        "keywords": [
+          "smoothie",
+          "seconds",
+          "snow",
+          "iq",
+          "cubes snow",
+          "cubes",
+          "auto"
+        ],
+        "top_words_str": "smoothie, seconds, snow, iq, cubes snow, cubes, auto"
+      },
+      {
+        "topic_id": 1,
+        "label": "Topic 2: Worse Safety / Worse / Taking",
+        "keywords": [
+          "worse safety",
+          "worse",
+          "taking",
+          "taking kitchen",
+          "prying open",
+          "safety locking",
+          "sounds"
+        ],
+        "top_words_str": "worse safety, worse, taking, taking kitchen, prying open, safety locking, sounds"
+      },
+      {
+        "topic_id": 2,
+        "label": "Topic 3: Speed / Speed 100 / Twice Cost",
+        "keywords": [
+          "speed",
+          "speed 100",
+          "twice cost",
+          "twice",
+          "smoothies ease",
+          "rivals blenders",
+          "price rivals"
+        ],
+        "top_words_str": "speed, speed 100, twice cost, twice, smoothies ease, rivals blenders, price rivals"
+      },
+      {
+        "topic_id": 3,
+        "label": "Topic 4: Turning / Turning Stacked / Washing Impossible",
+        "keywords": [
+          "turning",
+          "turning stacked",
+          "washing impossible",
+          "washing",
+          "protein shakes",
+          "shaft dangerously",
+          "shaft"
+        ],
+        "top_words_str": "turning, turning stacked, washing impossible, washing, protein shakes, shaft dangerously, shaft"
+      }
+    ],
+    "summaries": {
+      "positive_summary": "The Auto-iQ smoothie preset works perfectly. The Auto-iQ smoothie program is fantastic: pulses and blends automatically. The stacked blade shaft is dangerously sharp when hand washing and impossible to clean thoroughly.",
+      "negative_summary": "The stacked Total Crushing blades turn frozen strawberries and ice cubes into snow in 20 seconds."
+    }
+  },
+  "B07W67NQMN": {
+    "asin": "B07W67NQMN",
+    "title": "Breville Smart Oven Air Fryer Pro, Countertop Convection",
+    "category": "Appliances",
+    "pros": [],
+    "cons": [],
+    "issues": [
+      {
+        "issue": "Issue regarding: Error code",
+        "severity": "Medium",
+        "frequency": 4,
+        "trend": "Increasing (Emerging Issue \u26a0\ufe0f)",
+        "first_reported": "2023-08",
+        "last_reported": "2023-08",
+        "sample_quotes": [
+          "Thermal sensor failure: Error code E05 after 8 months.",
+          "Right after the 6-month mark, the oven started beeping and shutting off mid-bake with error code E05."
+        ]
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": 0,
+        "label": "Topic 1: Started / Started Beeping / Thermal",
+        "keywords": [
+          "started",
+          "started beeping",
+          "thermal",
+          "thermal fuse",
+          "shutting mid",
+          "right",
+          "right month"
+        ],
+        "top_words_str": "started, started beeping, thermal, thermal fuse, shutting mid, right, right month"
+      },
+      {
+        "topic_id": 1,
+        "label": "Topic 2: Temp Roasting / Temp / Sides Scorching",
+        "keywords": [
+          "temp roasting",
+          "temp",
+          "sides scorching",
+          "sides",
+          "scorching hot",
+          "scorching",
+          "roasting"
+        ],
+        "top_words_str": "temp roasting, temp, sides scorching, sides, scorching hot, scorching, roasting"
+      },
+      {
+        "topic_id": 2,
+        "label": "Topic 3: Wings Gives / Wings / Vegetables Bake",
+        "keywords": [
+          "wings gives",
+          "wings",
+          "vegetables bake",
+          "vegetables",
+          "temperature",
+          "temperature consistency",
+          "sourdough"
+        ],
+        "top_words_str": "wings gives, wings, vegetables bake, vegetables, temperature, temperature consistency, sourdough"
+      },
+      {
+        "topic_id": 3,
+        "label": "Topic 4: Started / Started Beeping / Thermal",
+        "keywords": [
+          "started",
+          "started beeping",
+          "thermal",
+          "thermal fuse",
+          "shutting mid",
+          "right",
+          "right month"
+        ],
+        "top_words_str": "started, started beeping, thermal, thermal fuse, shutting mid, right, right month"
+      }
+    ],
+    "summaries": {
+      "positive_summary": "Customers generally report positive satisfaction with the product.",
+      "negative_summary": "Right after the 6-month mark, the oven started beeping and shutting off mid-bake with error code E05. Right after the 6-month mark, the oven started beeping and shutting off mid-bake with error code E05."
+    }
+  },
+  "B0936FGLQS": {
+    "asin": "B0936FGLQS",
+    "title": "COSORI Pro II Air Fryer Oven Combo, 5.8QT Large Cooker",
+    "category": "Appliances",
+    "pros": [],
+    "cons": [],
+    "issues": [
+      {
+        "issue": "Exterior material peeling or degradation",
+        "severity": "Medium",
+        "frequency": 2,
+        "trend": "Increasing (Emerging Issue \u26a0\ufe0f)",
+        "first_reported": "2023-08",
+        "last_reported": "2023-08",
+        "sample_quotes": [
+          "Non-stick coating began peeling after 4 months."
+        ]
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": 0,
+        "label": "Topic 1: Basket / Food / Flaking",
+        "keywords": [
+          "basket",
+          "food",
+          "flaking",
+          "coating",
+          "sent",
+          "black specks",
+          "black"
+        ],
+        "top_words_str": "basket, food, flaking, coating, sent, black specks, black"
+      },
+      {
+        "topic_id": 1,
+        "label": "Topic 2: Sponges Silicone / Tongs / Customer",
+        "keywords": [
+          "sponges silicone",
+          "tongs",
+          "customer",
+          "flaking food",
+          "silicone",
+          "replacement",
+          "photos sent"
+        ],
+        "top_words_str": "sponges silicone, tongs, customer, flaking food, silicone, replacement, photos sent"
+      },
+      {
+        "topic_id": 2,
+        "label": "Topic 3: Basket / Food / Preheat",
+        "keywords": [
+          "basket",
+          "food",
+          "preheat",
+          "30",
+          "food round",
+          "shake",
+          "square 8qt"
+        ],
+        "top_words_str": "basket, food, preheat, 30, food round, shake, square 8qt"
+      },
+      {
+        "topic_id": 3,
+        "label": "Topic 4: 30 Seconds / Far / Air Fryer",
+        "keywords": [
+          "30 seconds",
+          "far",
+          "air fryer",
+          "far food",
+          "ensure",
+          "holds far",
+          "water"
+        ],
+        "top_words_str": "30 seconds, far, air fryer, far food, ensure, holds far, water"
+      }
+    ],
+    "summaries": {
+      "positive_summary": "The preheat and shake reminder functions ensure perfectly even browning. The preheat and shake reminder functions ensure perfectly even browning. Customer support requested photos and sent a replacement basket.",
+      "negative_summary": "No widespread critical complaints were reported in the sampled reviews."
+    }
+  },
+  "B01MSSDEPK": {
+    "asin": "B01MSSDEPK",
+    "title": "CeraVe Hydrating Facial Cleanser for Normal to Dry Skin",
+    "category": "Beauty_and_Personal_Care",
+    "pros": [
+      {
+        "aspect": "Cleaning & Maintenance",
+        "sentiment_score": 0.91,
+        "positive_percentage": 100.0,
+        "mention_count": 1,
+        "sample_quotes": [
+          "I have eczema and sensitive skin that turns red with almost every foaming face wash. CeraVe Hydrating Cleanser feels like a soothing lotion, does not lather aggressively, and leaves my skin barrier moisturized and calm."
+        ]
+      }
+    ],
+    "cons": [
+      {
+        "aspect": "Build Quality",
+        "sentiment_score": -0.91,
+        "positive_percentage": 0.0,
+        "mention_count": 1,
+        "sample_quotes": [
+          "Also, the plastic bottle pump mechanism arrived broken and jammed, forcing me to unscrew the cap every time."
+        ]
+      }
+    ],
+    "issues": [
+      {
+        "issue": "Issue regarding: Broken ",
+        "severity": "High",
+        "frequency": 1,
+        "trend": "Recent Detection",
+        "first_reported": "2023-08",
+        "last_reported": "2023-08",
+        "sample_quotes": [
+          "Also, the plastic bottle pump mechanism arrived broken and jammed, forcing me to unscrew the cap every time."
+        ]
+      },
+      {
+        "issue": "Issue regarding: Broke ",
+        "severity": "High",
+        "frequency": 1,
+        "trend": "Recent Detection",
+        "first_reported": "2023-08",
+        "last_reported": "2023-08",
+        "sample_quotes": [
+          "Leaves a waxy film residue and broke out my jawline."
+        ]
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": 0,
+        "label": "Topic 1: Heavy / Waterproof Mascara / Remove",
+        "keywords": [
+          "heavy",
+          "waterproof mascara",
+          "remove",
+          "heavy foundation",
+          "foundation need",
+          "mascara",
+          "need"
+        ],
+        "top_words_str": "heavy, waterproof mascara, remove, heavy foundation, foundation need, mascara, need"
+      },
+      {
+        "topic_id": 1,
+        "label": "Topic 2: Skin / Silky Lotion / Skin Calm",
+        "keywords": [
+          "skin",
+          "silky lotion",
+          "skin calm",
+          "texture cleans",
+          "texture",
+          "tightness dryness",
+          "tightness"
+        ],
+        "top_words_str": "skin, silky lotion, skin calm, texture cleans, texture, tightness dryness, tightness"
+      },
+      {
+        "topic_id": 2,
+        "label": "Topic 3: Acne / Weeks / Waxy Film",
+        "keywords": [
+          "acne",
+          "weeks",
+          "waxy film",
+          "waxy",
+          "truly",
+          "truly rinses",
+          "rinses leaves"
+        ],
+        "top_words_str": "acne, weeks, waxy film, waxy, truly, truly rinses, rinses leaves"
+      },
+      {
+        "topic_id": 3,
+        "label": "Topic 4: Skin / Turns Red / Turns",
+        "keywords": [
+          "skin",
+          "turns red",
+          "turns",
+          "wash",
+          "red foaming",
+          "skin turns",
+          "soothing lotion"
+        ],
+        "top_words_str": "skin, turns red, turns, wash, red foaming, skin turns, soothing lotion"
+      }
+    ],
+    "summaries": {
+      "positive_summary": "I have eczema and sensitive skin that turns red with almost every foaming face wash. CeraVe Hydrating Cleanser feels like a soothing lotion, does not lather aggressively, and leaves my skin barrier moisturized and calm. Perfect for cleansing in the morning without stripping moisture. Note that if you wear waterproof mascara or heavy foundation, you will need an oil balm first because this gentle cleanser will not remove heavy makeup.",
+      "negative_summary": "Also, the plastic bottle pump mechanism arrived broken and jammed, forcing me to unscrew the cap every time."
+    }
+  },
+  "B089KV92K9": {
+    "asin": "B089KV92K9",
+    "title": "Dyson Airwrap Multi-Styler Complete Long",
+    "category": "Beauty_and_Personal_Care",
+    "pros": [
+      {
+        "aspect": "Price & Value",
+        "sentiment_score": 0.67,
+        "positive_percentage": 100.0,
+        "mention_count": 1,
+        "sample_quotes": [
+          "It is expensive at $600, but having styling tools combined in one gorgeous case replaces my curling iron, flat iron, and blow dryer."
+        ]
+      }
+    ],
+    "cons": [
+      {
+        "aspect": "Safety & Heating",
+        "sentiment_score": -0.54,
+        "positive_percentage": 0.0,
+        "mention_count": 2,
+        "sample_quotes": [
+          "My hair has significantly less split ends because there is no extreme heat damage.",
+          "My hair has significantly less split ends because there is no extreme heat damage."
+        ]
+      },
+      {
+        "aspect": "Cleaning & Maintenance",
+        "sentiment_score": -0.15,
+        "positive_percentage": 0.0,
+        "mention_count": 2,
+        "sample_quotes": [
+          "Furthermore, the red filter cleaning light flashes repeatedly and the unit shuts down mid-styling even after cleaning the filter.",
+          "Furthermore, the red filter cleaning light flashes repeatedly and the unit shuts down mid-styling even after cleaning the filter."
+        ]
+      }
+    ],
+    "issues": [
+      {
+        "issue": "Issue regarding: Shuts down",
+        "severity": "Medium",
+        "frequency": 2,
+        "trend": "Increasing (Emerging Issue \u26a0\ufe0f)",
+        "first_reported": "2023-08",
+        "last_reported": "2023-08",
+        "sample_quotes": [
+          "Furthermore, the red filter cleaning light flashes repeatedly and the unit shuts down mid-styling even after cleaning the filter."
+        ]
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": 0,
+        "label": "Topic 1: Cleaning / Filter / Unit Shuts",
+        "keywords": [
+          "cleaning",
+          "filter",
+          "unit shuts",
+          "flashes",
+          "curls",
+          "unit",
+          "styling cleaning"
+        ],
+        "top_words_str": "cleaning, filter, unit shuts, flashes, curls, unit, styling cleaning"
+      },
+      {
+        "topic_id": 1,
+        "label": "Topic 2: Hair / Wraps / Wraps Hair",
+        "keywords": [
+          "hair",
+          "wraps",
+          "wraps hair",
+          "damage new",
+          "styling wraps",
+          "split",
+          "split ends"
+        ],
+        "top_words_str": "hair, wraps, wraps hair, damage new, styling wraps, split, split ends"
+      },
+      {
+        "topic_id": 2,
+        "label": "Topic 3: Iron / Flat / Styling Tools",
+        "keywords": [
+          "iron",
+          "flat",
+          "styling tools",
+          "curling iron",
+          "expensive 600",
+          "blow",
+          "tools combined"
+        ],
+        "top_words_str": "iron, flat, styling tools, curling iron, expensive 600, blow, tools combined"
+      },
+      {
+        "topic_id": 3,
+        "label": "Topic 4: Cleaning / Filter / Unit Shuts",
+        "keywords": [
+          "cleaning",
+          "filter",
+          "unit shuts",
+          "flashes",
+          "curls",
+          "unit",
+          "styling cleaning"
+        ],
+        "top_words_str": "cleaning, filter, unit shuts, flashes, curls, unit, styling cleaning"
+      }
+    ],
+    "summaries": {
+      "positive_summary": "It is expensive at $600, but having styling tools combined in one gorgeous case replaces my curling iron, flat iron, and blow dryer. The Coanda airflow styling wraps your hair like magic. The Coanda airflow styling wraps your hair like magic.",
+      "negative_summary": "My hair has significantly less split ends because there is no extreme heat damage. My hair has significantly less split ends because there is no extreme heat damage."
+    }
+  },
+  "B000142FVW": {
+    "asin": "B000142FVW",
+    "title": "Revlon One-Step Volumizer Plus 2.0 Hair Dryer and Hot Air Brush",
+    "category": "Beauty_and_Personal_Care",
+    "pros": [
+      {
+        "aspect": "Sound Quality",
+        "sentiment_score": 0.14,
+        "positive_percentage": 100.0,
+        "mention_count": 3,
+        "sample_quotes": [
+          "Creates incredible salon volume for under $40."
+        ]
+      }
+    ],
+    "cons": [
+      {
+        "aspect": "Build Quality",
+        "sentiment_score": -0.53,
+        "positive_percentage": 0.0,
+        "mention_count": 2,
+        "sample_quotes": [
+          "After 4 months, the unit started emitting a severe burning plastic smell and sparked near the cord swivel base.",
+          "After 4 months, the unit started emitting a severe burning plastic smell and sparked near the cord swivel base."
+        ]
+      },
+      {
+        "aspect": "Safety & Heating",
+        "sentiment_score": -0.14,
+        "positive_percentage": 40.0,
+        "mention_count": 5,
+        "sample_quotes": [
+          "The high heat setting gets dangerously hot and burnt my ends.",
+          "Known safety issue with heat regulation.",
+          "The high heat setting gets dangerously hot and burnt my ends."
+        ]
+      },
+      {
+        "aspect": "Performance",
+        "sentiment_score": 0.0,
+        "positive_percentage": 0.0,
+        "mention_count": 1,
+        "sample_quotes": []
+      }
+    ],
+    "issues": [
+      {
+        "issue": "Thermal overheating or burn warning alert",
+        "severity": "Critical",
+        "frequency": 2,
+        "trend": "Increasing (Emerging Issue \u26a0\ufe0f)",
+        "first_reported": "2023-08",
+        "last_reported": "2023-08",
+        "sample_quotes": [
+          "Overheated, sparked, and burned plastic smell."
+        ]
+      },
+      {
+        "issue": "Issue regarding: Smell",
+        "severity": "Critical",
+        "frequency": 2,
+        "trend": "Increasing (Emerging Issue \u26a0\ufe0f)",
+        "first_reported": "2023-08",
+        "last_reported": "2023-08",
+        "sample_quotes": [
+          "After 4 months, the unit started emitting a severe burning plastic smell and sparked near the cord swivel base."
+        ]
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": 0,
+        "label": "Topic 1: Heat / Unit Started / Started",
+        "keywords": [
+          "heat",
+          "unit started",
+          "started",
+          "swivel base",
+          "swivel",
+          "started emitting",
+          "months"
+        ],
+        "top_words_str": "heat, unit started, started, swivel base, swivel, started emitting, months"
+      },
+      {
+        "topic_id": 1,
+        "label": "Topic 2: Minutes / Hair / Volume Roots",
+        "keywords": [
+          "minutes",
+          "hair",
+          "volume roots",
+          "spending 45",
+          "tourmaline",
+          "went spending",
+          "spending"
+        ],
+        "top_words_str": "minutes, hair, volume roots, spending 45, tourmaline, went spending, spending"
+      },
+      {
+        "topic_id": 2,
+        "label": "Topic 3: Volume 40 / Speed / Stick Medium",
+        "keywords": [
+          "volume 40",
+          "speed",
+          "stick medium",
+          "time",
+          "tip",
+          "tip stick",
+          "stick"
+        ],
+        "top_words_str": "volume 40, speed, stick medium, time, tip, tip stick, stick"
+      },
+      {
+        "topic_id": 3,
+        "label": "Topic 4: Minutes / Hair / Volume Roots",
+        "keywords": [
+          "minutes",
+          "hair",
+          "volume roots",
+          "spending 45",
+          "tourmaline",
+          "went spending",
+          "spending"
+        ],
+        "top_words_str": "minutes, hair, volume roots, spending 45, tourmaline, went spending, spending"
+      }
+    ],
+    "summaries": {
+      "positive_summary": "Known safety issue with heat regulation. Known safety issue with heat regulation.",
+      "negative_summary": "The high heat setting gets dangerously hot and burnt my ends. The high heat setting gets dangerously hot and burnt my ends. After 4 months, the unit started emitting a severe burning plastic smell and sparked near the cord swivel base."
+    }
+  },
+  "B0BSLRXZ3P": {
+    "asin": "B0BSLRXZ3P",
+    "title": "Garmin Forerunner 265 GPS Running Smartwatch, AMOLED Display",
+    "category": "Sports_and_Outdoors",
+    "pros": [
+      {
+        "aspect": "Comfort & Fit",
+        "sentiment_score": 0.54,
+        "positive_percentage": 100.0,
+        "mention_count": 2,
+        "sample_quotes": [
+          "The silicone band is breathable and comfortable.",
+          "The silicone band is breathable and comfortable."
+        ]
+      },
+      {
+        "aspect": "Battery Life",
+        "sentiment_score": 0.49,
+        "positive_percentage": 100.0,
+        "mention_count": 2,
+        "sample_quotes": [
+          "Battery easily lasts 12 days on a single charge with daily runs.",
+          "Battery easily lasts 12 days on a single charge with daily runs."
+        ]
+      },
+      {
+        "aspect": "Sound Quality",
+        "sentiment_score": 0.15,
+        "positive_percentage": 100.0,
+        "mention_count": 2,
+        "sample_quotes": [
+          "Upgraded from the 245 Music and the AMOLED touchscreen is spectacular even in direct Arizona sunlight.",
+          "Upgraded from the 245 Music and the AMOLED touchscreen is spectacular even in direct Arizona sunlight."
+        ]
+      }
+    ],
+    "cons": [],
+    "issues": [],
+    "topics": [
+      {
+        "topic_id": 0,
+        "label": "Topic 1: Training Readiness / Transformed / Transformed Train",
+        "keywords": [
+          "training readiness",
+          "transformed",
+          "transformed train",
+          "train half",
+          "train",
+          "tells push",
+          "tells"
+        ],
+        "top_words_str": "training readiness, transformed, transformed train, train half, train, tells push, tells"
+      },
+      {
+        "topic_id": 1,
+        "label": "Topic 2: Upgraded 245 / Upgraded / Touchscreen Spectacular",
+        "keywords": [
+          "upgraded 245",
+          "upgraded",
+          "touchscreen spectacular",
+          "sunlight gps",
+          "sunlight",
+          "touchscreen",
+          "seconds multi"
+        ],
+        "top_words_str": "upgraded 245, upgraded, touchscreen spectacular, sunlight gps, sunlight, touchscreen, seconds multi"
+      },
+      {
+        "topic_id": 2,
+        "label": "Topic 3: Strap / Zone / Zone Training",
+        "keywords": [
+          "strap",
+          "zone",
+          "zone training",
+          "steady",
+          "strap strict",
+          "strap required",
+          "steady easy"
+        ],
+        "top_words_str": "strap, zone, zone training, steady, strap strict, strap required, steady easy"
+      },
+      {
+        "topic_id": 3,
+        "label": "Topic 4: Training Readiness / Transformed / Transformed Train",
+        "keywords": [
+          "training readiness",
+          "transformed",
+          "transformed train",
+          "train half",
+          "train",
+          "tells push",
+          "tells"
+        ],
+        "top_words_str": "training readiness, transformed, transformed train, train half, train, tells push, tells"
+      }
+    ],
+    "summaries": {
+      "positive_summary": "The silicone band is breathable and comfortable. The silicone band is breathable and comfortable. It tells me when to push hard and when to take an easy recovery day.",
+      "negative_summary": "No widespread critical complaints were reported in the sampled reviews."
+    }
+  },
+  "B083GC59NV": {
+    "asin": "B083GC59NV",
+    "title": "Hydro Flask Wide Mouth Bottle with Flex Straw Cap, 32 oz",
+    "category": "Sports_and_Outdoors",
+    "pros": [],
+    "cons": [
+      {
+        "aspect": "Comfort & Fit",
+        "sentiment_score": -0.51,
+        "positive_percentage": 0.0,
+        "mention_count": 2,
+        "sample_quotes": [
+          "Only complaint is the 32 oz size does not fit into standard car cup holders.",
+          "Only complaint is the 32 oz size does not fit into standard car cup holders."
+        ]
+      },
+      {
+        "aspect": "Cleaning & Maintenance",
+        "sentiment_score": -0.15,
+        "positive_percentage": 0.0,
+        "mention_count": 2,
+        "sample_quotes": [
+          "Also, the internal rubber seal inside the cap tore during cleaning, causing water to drip when tipped sideways.",
+          "Also, the internal rubber seal inside the cap tore during cleaning, causing water to drip when tipped sideways."
+        ]
+      }
+    ],
+    "issues": [
+      {
+        "issue": "Issue regarding: Tearing",
+        "severity": "Medium",
+        "frequency": 2,
+        "trend": "Increasing (Emerging Issue \u26a0\ufe0f)",
+        "first_reported": "2023-08",
+        "last_reported": "2023-08",
+        "sample_quotes": [
+          "Straw cap whistling noise and silicone valve tearing."
+        ]
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": 0,
+        "label": "Topic 1: 105 / Summer Day / Water Freezing",
+        "keywords": [
+          "105",
+          "summer day",
+          "water freezing",
+          "straw lid",
+          "left bottle",
+          "inside water",
+          "leakproof"
+        ],
+        "top_words_str": "105, summer day, water freezing, straw lid, left bottle, inside water, leakproof"
+      },
+      {
+        "topic_id": 1,
+        "label": "Topic 2: Withstands Drops / Withstands / Whatsoever 18",
+        "keywords": [
+          "withstands drops",
+          "withstands",
+          "whatsoever 18",
+          "whatsoever",
+          "steel powder",
+          "standard car",
+          "steel"
+        ],
+        "top_words_str": "withstands drops, withstands, whatsoever 18, whatsoever, steel powder, standard car, steel"
+      },
+      {
+        "topic_id": 2,
+        "label": "Topic 3: Whistling Suction / Tore / Whistling",
+        "keywords": [
+          "whistling suction",
+          "tore",
+          "whistling",
+          "tore cleaning",
+          "water drip",
+          "tipped",
+          "straw produces"
+        ],
+        "top_words_str": "whistling suction, tore, whistling, tore cleaning, water drip, tipped, straw produces"
+      },
+      {
+        "topic_id": 3,
+        "label": "Topic 4: Water Freezing / Summer Day / Summer",
+        "keywords": [
+          "water freezing",
+          "summer day",
+          "summer",
+          "straw lid",
+          "left bottle",
+          "inside water",
+          "leakproof"
+        ],
+        "top_words_str": "water freezing, summer day, summer, straw lid, left bottle, inside water, leakproof"
+      }
+    ],
+    "summaries": {
+      "positive_summary": "Customers generally report positive satisfaction with the product.",
+      "negative_summary": "Only complaint is the 32 oz size does not fit into standard car cup holders. Only complaint is the 32 oz size does not fit into standard car cup holders. After two months, sipping through the straw produces an annoying loud whistling suction noise."
+    }
+  }
+}

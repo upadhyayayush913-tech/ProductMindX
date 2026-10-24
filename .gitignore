@@ -1,0 +1,57 @@
+# ==============================================================================
+# ProductMind X — .gitignore
+# ==============================================================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment Variables & Secrets (Keep .env.example tracked)
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Unit test / coverage / mypy / pytest caches
+.pytest_cache/
+.mypy_cache/
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+
+# Local Vector Databases & Model Caches
+data/cache/chromadb/
+data/cache/models/
+data/cache/feedback/
+data/cache/research_notebook/
+data/cache/nlp_processing_status.json
+
+# Local Runtime Logs
+*.log
+data/cache/*.log
+logs/
+
+# Scratch & development one-off scripts
+scratch/
+reports/ProductMindX_Report_Figures/
+
+# Operating System & Editor Artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
